@@ -61,6 +61,7 @@ public class TelaLoginGUI extends javax.swing.JFrame {
         });
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        setResizable(false);
         getContentPane().setLayout(null);
 
         jButtonCancelar.setFont(new java.awt.Font("Tahoma", 1, 12)); // NOI18N
